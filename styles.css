@@ -1,0 +1,10 @@
+/* styles.css */
+
+main {
+    text-align: center; /* Centra los elementos */
+}
+
+.parche {
+    margin: 100px auto; /* Centra los elementos horizontalmente y agrega espacio entre ellos */
+}
+
